@@ -2,8 +2,8 @@ Use Case #3: Threat Assessment
 ============================
 A focus on stability and security on African continent.
 
-* ** UseCase-ThreatAssessment-v4.docx  ** -  Use case description and objectives.
-* ** Analysis-Exchange-Elements-for-ThreatAssessment-v1.docx ** -  AE Ontology applied to this use case.
+* **UseCase-ThreatAssessment-v4.docx** -  Use case description and objectives.
+* **Analysis-Exchange-Elements-for-ThreatAssessment-v1.docx** -  AE Ontology applied to this use case.
 
 Relevant data for this use case includes (Need links to files):
 
